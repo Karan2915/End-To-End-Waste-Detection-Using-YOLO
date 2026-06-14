@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+runs/
+train/
+valid/
+test/
+
+*.pt
+*.zip
+__pycache__/
+*.cache
