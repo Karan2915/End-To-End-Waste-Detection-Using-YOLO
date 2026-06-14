@@ -11,7 +11,7 @@ The project demonstrates the complete machine learning lifecycle including data 
 ## 🚀 Live Demo
 
 🔗 **Deployed Application:**  
-https://YOUR-STREAMLIT-LINK.streamlit.app
+https://end-to-end-waste-detection-using-yolo-f4zpitwbadgblxxzfyc5ah.streamlit.app/
 
 ---
 
