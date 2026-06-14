@@ -8,8 +8,7 @@ st.set_page_config(page_title="Waste Detection using YOLOv11")
 st.title("🗑️ Waste Detection using YOLOv11")
 
 # Load trained model
-model = YOLO("runs/detect/train-10/weights/best.pt")
-
+model = YOLO("models/best.pt")
 # Confidence slider
 confidence = st.slider(
     "Confidence Threshold",
